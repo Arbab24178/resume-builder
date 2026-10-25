@@ -10,3 +10,4 @@ yarn-error.log*
 .env*.local
 .vercel
 *.tsbuildinfo
+system-commandline-sentinel-files/
